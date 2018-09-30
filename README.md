@@ -26,6 +26,9 @@ Describe what data modalities will be included in the data science plan.
 ## Workflow
 Describe the overall workflow in the project surrounding the data.
 
+## Data integrity
+How will the data be protected from loss, corruption, and inconsistencies due to technical issues or human error?
+
 ## Data entry
 Define what data will need to be entered manually, when and how.
 
@@ -38,7 +41,7 @@ Define what data will need to be ingested from repositories and how.
 ## Preprocessing: raw and processed data
 What types of initial processing will be performed on the data?  
 Raw data are bulky data that do rarely need to be accessed after initial processing.
-How often will the raw data  need to be accessed?   
+For how long and how often will the raw data  need to be accessed?   
 Will preprocessing methods continue to evolve?
 
 ## Analysis
@@ -59,7 +62,7 @@ Describe the needs for data exchange while the project is ongoing.
 How will the team need to work jointly on the  data coming through the pipeline?
 
 # Data security
-Access control, encryption.
+## Access control, encryption.
 
 # Resources
 IT resources dedicated to the project on premises and on the cloud.
