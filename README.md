@@ -11,11 +11,23 @@ Generally, a *data pipeline* is a collection of software tools, data storage and
 Define your project: what are its aims and expected outcomes.  
 
 ## Stakeholders
+Who are the people invested in the success of the data pipeline?  
+What are their roles?
+
 ## Project timeline  
-## Key personnel and their roles
+Start date. Major milestones.
+
+## Team composition
+Key personnel and their roles.
 Roles and responsibilities, contact persons.
 
+## Training
+Who will need training to fulfill their roles?
+What training will be required?  
+How should training be scheduled and organized? 
+
 ## Allocated resources
+What resources have been set aside for the project: people, funds, facilities, IT support.
 
 # Data lifecycle
 Define the role of the data pipeline in the project.
